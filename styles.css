@@ -1,0 +1,24 @@
+.container{
+    margin-top:20px;
+}
+.card-body{
+    padding: 40px;
+}
+#errorTxt{
+    border-radius:5px ;
+    border-color:rgb(246, 125, 125);
+    background-color: rgb(255, 204, 204);
+    color:darkred;
+}
+.MoneyCards{
+    background-color: grey;
+    background-size: 20px;
+    border-radius: 4px;
+    padding:10px;
+}
+#MessageBox{
+    height:100px;
+}
+.buttons{
+    float: right;
+}
